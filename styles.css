@@ -1,0 +1,31 @@
+body {
+    background-color: #393E46;
+    color: aliceblue;
+    font-family: 'Work Sans', sans-serif;
+}
+
+a {
+    color: coral;
+    font-family: 'Sacramento', cursive;
+}
+
+h1 {
+    font-family: 'Noto Serif KR', serif;
+    
+}
+
+hr {
+    border-style: dotted none none;
+    border-top-style: dotted;
+    border-color: #EB6440;
+    border-width: 5px;
+    height: 0px;
+    width: 10%;
+}
+
+.profile {
+    border-radius: 40% 10% 40% 10%;
+}
+em {
+    font-family: 'Sacramento', cursive; ;
+}
